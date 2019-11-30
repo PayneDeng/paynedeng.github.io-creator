@@ -1,15 +1,8 @@
 ---
 title: "HTML入门笔记1"
 date: 2019-11-30T12:21:59+08:00
-draft: true
+draft: false
 ---
-
-内容里需要介绍
-HTML 是谁发明的
-HTML 起手应该写什么
-常用的表章节的标签有哪些，分别是什么意思（h1~h6、section、article、main、aside 等等）
-全局属性有哪些
-常用的内容标签有哪些，分别是什么意思（a、strong、em、code、pre 等等）
 
 1. `HTML`是由 Tim Berners-Lee 发明的。
 
